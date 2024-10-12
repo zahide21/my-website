@@ -1,0 +1,103 @@
+
+.navbar{
+    padding: 8px 0;
+    background-color:#CE6A6B;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    }
+    .link{
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .link:hover{
+        color:#f5e8db;
+    }
+    .links{
+        display: flex;
+        align-items:center;
+        justify-content: space-around;
+        width: 400px;
+    }
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #EBACA2;
+    }
+    .social{
+        width: 40px;
+    }
+    .sb{
+        width: 50px;    
+    }
+    .p{
+        text-decoration: none;
+    }
+    .p1{
+        color:white;
+        font-size: 20px;
+    }
+    .text{
+        background-color: transparent;
+        color: white;
+        padding: 10px 20px;
+        font-size: 20px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        text-decoration: none;
+    }
+    .text:hover{
+        color:#CE6A6B;
+        background-color: white;
+    }
+.section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #f8f8f8; /* Light background color */
+}
+
+.content {
+        flex: 1;
+        background-color: #f5e8db; /* Light beige color */
+        color: #65402a; /* Soft brown color for the text */
+        font-family: 'Arial', sans-serif;
+        text-align: center;
+        padding: 50px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+.image-section {
+    display: flex;
+    gap: 20px;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+.tshirt-image {
+    width: 400px;
+    border-radius: 10px;
+}
+
+
+

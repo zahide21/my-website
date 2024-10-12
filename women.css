@@ -1,0 +1,186 @@
+body{
+    background-color: #f5e8db;
+}
+.text1{
+      background-color: transparent;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+.text1:hover{
+    color:#CE6A6B;
+    background-color: white;
+}
+.navbar{
+    padding: 8px 0;
+    background-color:#CE6A6B;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    }
+    .link{
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .link:hover{
+        color:#f5e8db;
+    }
+    .links{
+        display: flex;
+        align-items:center;
+        justify-content: space-around;
+        width: 400px;
+    }
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #EBACA2;
+    }
+    .social{
+        width: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+    }
+    .sb{
+        width: 50px;    
+    }
+       .p{
+        text-decoration: none;
+    }
+.Articles1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+.Articles2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+.a1{
+    background-image: url(a17.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a2{
+    background-image: url(a18.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a3{
+    background-image: url(a19.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a4{
+    background-image: url(a20.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a5{
+    background-image: url(a21.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a6{
+    background-image: url(a22.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a7{
+    background-image: url(a23.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.a8{
+    background-image: url(a24.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    border-radius: 28px;
+}
+.row{
+    align-items: center;
+    display: table-row;
+    height: 600px;
+    display:table-column;
+}

@@ -1,0 +1,124 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    color: #A44A3F; /* Brownish color for text */
+}
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    border: 1px solid #A44A3F;
+    padding: 8px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    background-color: #A44A3F;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #8C3A33;
+}
+.contact-container {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #A44A3F; /* Matching the brownish-orange color */
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.contact-details p {
+    font-size: 18px;
+    color: #6C6263; /* Lighter grayish color for secondary text */
+    margin: 5px 0;
+}
+
+a {
+    color: #6C6263;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footer-text {
+    margin-top: 40px;
+    font-size: 16px;
+    color: #6C6263;
+}
+body{
+    background-color: #f5e8db; /* Light beige color */
+}
+.navbar{
+    padding: 8px 0;
+    background-color:#CE6A6B;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    }
+    .link{
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .link:hover{
+        color:#f5e8db;
+        text-decoration: none;
+    }
+    .links{
+        display: flex;
+        align-items:center;
+        justify-content: space-around;
+        width: 400px;
+    }
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #EBACA2;
+    }
+    .social{
+        width: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+    }
+    .sb{
+        width: 50px;    
+    }
+    .text1{
+        background-color: transparent;
+      color: white;
+      padding: 10px 20px;
+      font-size: 20px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+  }
+  .text1:hover{
+      color:#CE6A6B;
+      background-color: white;
+  }
